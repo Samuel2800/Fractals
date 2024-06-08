@@ -56,3 +56,10 @@ To visualize the Julia set, you iterate the function *f(z)* for each point in a 
 ### COmparison with Mendelbrot Set
 - The Mendelbrot set considers a grid of complex numbers *c* and checks the behavior of the function *f(z) = z<sup> 2</sup> + c* starting from *z = 0*.
 - The Julia set fixes *c* and considers a grid of complex numbers *z*, iterating *f(z) = z <sup>2</sup> + c* for each *z*.
+
+### Other Nice Values for *c*
+- *c = 0.285 + 0.01i*
+- *c = -0.4 + 0.6i*
+- *c = 0.355 + 0.355i*
+- *c = -1476*
+- *c = 0.285*
